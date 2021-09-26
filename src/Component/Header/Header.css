@@ -1,0 +1,12 @@
+.header{
+          color: white;
+          background-color:maroon;
+          height: 150px;
+          text-align: center;
+}
+.header :hover{
+          background-color: rgb(119, 114, 119);
+}
+.category{
+          color:rgb(62, 128, 128);
+}

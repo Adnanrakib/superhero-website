@@ -1,0 +1,93 @@
+[
+          {
+            "id": 0,
+            "name": "Daenerys",
+            "title": "Mother of Dragons",
+            "age": 25,
+            "family": "House targaryen",
+            "release": "2011-2019",
+            "img": "https://thronesapi.com/assets/images/daenerys.jpg"
+          },
+          {
+            "id": 1,
+            "name": "Samwell",
+            "title": "Measter",
+            "age": 28,
+            "family": "House tarly",
+            "release": "2011-2019",
+            "img" : "https://thronesapi.com/assets/images/sam.jpg"
+          },
+          {
+            "id": 2,
+            "name": "Jon snow",
+            "title": "King of the North",
+            "age": 29,
+            "family": "House stark",
+            "release": "2011-2019",
+            "img" : "https://thronesapi.com/assets/images/jon-snow.jpg"
+          },
+          {
+            "id": 3,
+            "name": "Arya stark",
+            "title": "No one",
+            "age": 18,
+            "family": "House strack",
+            "release": "2011-2019",
+            "img":"https://thronesapi.com/assets/images/arya-stark.jpg" 
+          },
+          {
+            "id": 4,
+            "name": "Sansa stark",
+            "title": "Lady of wintefell",
+            "age": 24,
+            "family": "House stark",
+            "release": "2011-2019",
+            "img": "https://thronesapi.com/assets/images/sansa-stark.jpeg"
+          },
+          {
+          "id": 5,
+          "name": "Brandon Stark",
+          "title": "Lord of Winterfell",
+          "age": 27,
+          "family": "House stark",
+          "release": "2011-2019",
+          "img": "https://thronesapi.com/assets/images/bran-stark.jpg"
+          },
+          {
+           "id": 6,
+            "name": "Ned Stark",
+            "title": "Lord of Winterfell",
+            "age": 42,
+            "family": "House stark",
+            "release": "2011-2019",
+            "img":"https://thronesapi.com/assets/images/ned-stark.jpg"
+          },
+          {
+          "id": 7,
+          "name": "Robert Baratheon",
+          "title": "Lord of the seven kingdom",
+          "age": 44,
+          "family": "House Baratheon",
+          "release": "2011-2019",
+          "img": "https://thronesapi.com/assets/images/robert-baratheon.jpeg"
+          },
+          {
+          "id": 8,
+          "name": "Jamie Lannister",
+          "title": "Lord Commander",
+          "age": 36,
+          "family": "House Lannister",
+          "release": "2011-2019",
+          "img": "https://thronesapi.com/assets/images/jaime-lannister.jpg"
+          },
+          {
+          "id": 9,
+          "name": "Cersei Lannister",
+          "title": "Lady of Casterly Rock",
+          "age": 29,
+          "family": "House Lannister",
+          "release": "2011-2019",
+          "img": "https://thronesapi.com/assets/images/cersei.jpg"
+          }
+        ]
+        

@@ -1,0 +1,30 @@
+
+
+.gamers{
+          background-color: rgb(255, 255, 255);
+          margin: 10px;
+          box-shadow: 10px 10px 30px rgb(190, 189, 189);
+          text-align: center;
+          border-radius: 5px;
+          padding: 10px 0px;
+          margin-bottom: 10px;
+}
+.gamers img{
+          width: 300px;
+          height: 150px;
+        
+          display: flex;
+          margin: 0 auto;
+}
+.game-button{
+          color: white;
+          background-color:rgb(141, 5, 5);
+          border: none;
+          padding: 10px 15px;
+          font-size: 15px;
+          font-family: inherit;
+          font-weight: 500px;
+          border-radius: 5px;
+          cursor: pointer;
+          margin-bottom: 8px;
+}

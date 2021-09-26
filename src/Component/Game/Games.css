@@ -1,0 +1,15 @@
+.game-container{
+          display: grid;
+          grid-template-columns: 3fr 1fr;
+         
+}
+.detail-container{
+          display: grid;
+          grid-template-columns: 1fr 1fr 1fr;
+          border-right: 1px;
+          margin-right: 5px;
+          margin-left: 20px;
+}
+/* .cart-container{
+          margin-left: 100px;
+} */
